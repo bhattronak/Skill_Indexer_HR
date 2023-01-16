@@ -1,6 +1,7 @@
 import docx2txt
 import nltk
 from pdf_to_text_scrapper_function import get_resume_text as grt
+
 path = input('Enter the path of the resume: ')
 resume_text= grt(path)
 
