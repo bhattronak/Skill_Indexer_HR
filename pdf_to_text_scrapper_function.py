@@ -13,4 +13,4 @@ def get_resume_text(path):
 
     with open('Resume_text.txt','w',encoding='UTF-8') as f:
         f.write(resume_text)
-    return resume_text
+    return resume_text 
