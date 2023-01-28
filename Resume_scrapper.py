@@ -158,9 +158,5 @@ def extract_education(input_text):
 
 ################################################################################################
 
-print('Phone Number of candidate is',extract_phone_number(resume_text))
-print('Email of candidate is',extract_emails(resume_text))
-print('Education of candidate is',extract_education(resume_text))
-print('Matching skills of candidate are',extract_skills(resume_text))
 
 
