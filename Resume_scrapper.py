@@ -1,9 +1,10 @@
 import docx2txt
 import nltk
 from pdf_to_text_scrapper_function import get_resume_text as grt
+# from UI import browse_file as path
 
-path = input('Enter the path of the resume: ')
-resume_text= grt(path)
+# path = input('Enter the path of the resume: ')
+# resume_text= grt(path())
 
 # To Get Skills of Resume! Better your SKILL_DB, Better the results
 nltk.download('stopwords')
