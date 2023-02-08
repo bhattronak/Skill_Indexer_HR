@@ -1,66 +1,82 @@
-Yogita Patel 
-+91-9819327005 Yogita-Linkedin
-patelyogitak@gmail.com Yogita-Github
-Experience
-•Homi Bhabha Centre for Science Education 2019 – 2021
-Project Scientific Assistant Mumbai, India
-–Part of Olympiad Question Development team for Indian Physics Olympiad (IPHO)
-–Manage IPHO and NIUS (National Initiative on Undergraduate Sciences) programmes conducted every year
-–Worked on several projects on Physics experiments which involved extensive model designing and analysis. Got
-two paper published in Physics Journal.
-•UT 2018 – 2019
-Teacher cum Content Developer Mumbai, India
-–Taught Physics and lead team in content development of SAT.
-•Podar Innovation Centre 2016 – 2017
-Curriculum Developer Mumbai, India
-–As a School Review team member, surveyed Podar Schools across India periodically to assess the progress in
-teaching learning process and the overall functioning of the school.
-–Focused on Multiple Intelligence and Bloom’s taxonomy-based teaching learning process.
-–Managed animation as well as content team to create K12 e-learning course materials for science subject.
-–Prepared and moderated lesson plans, question papers of Physics and Science Olympiad papers (CBSE ICSE).
-•Avalon Heights International School, Vashi 2015 – 2016
-Teacher Mumbai, India
-–Taught Math and Physics to middle school students.
-–Focused on activity-based teaching aligned with Multiple Intelligence.
-•Edtech Start-up 2012 – 2014
-Manager Mumbai, India
-–Website development WordPress
-–Content development K-12
+Lakshya Soni
++91 706551 1554 
+lakshyasoni97@gmail.com
+Work Experience
+Executive Engineer
+Torrent Gas  Jaipur  Private Limited
+July 19 - July 22
+●
+Gathered data from dif ferent sources, prepared a Steel pipeline network around Jaipur city , and
+executed field surveys, reducing cost by 12 lacs and bringing down execution time by 14 days.
+●
+Prepared workflow on worksheets to set tar gets for dif ferent contractors after the analysis of
+company requirements and site conditions.
+●
+Prepared Schedule of Rates after assessing the material required for various stretches of the Steel
+pipeline network.
+●
+Prepared an 8-year expansion plan for the Steel pipeline network around the geographical area
+according to the PNGRB guidelines.
+●
+Liaised with various statutory authorities for permission to lay Steel pipelines around Jaipur city .
 Education
-Degree/Certificate Institute/Board CGPA/Class Year
-PGP (AI&DS) Jio Institute 9.00 2022-Present
-B.Sc (Physics) Mumbai University First Class 2011-2012
-HSC Maharashtra Board Distinction 2008-2009
-SSC Maharashtra Board Distinction 2006-2007
-Academic Projects
-•Capstone project
-Machine Learning and Optimization
-–Optimising carbon footprint of an integrated Power generation system.
-•Natural Language Processing
-Skills- BeautifulSoup, NLTK, Spacy, Parsing
-–Various information extraction from the tweets data of Golden Globe Awards
-–Interactive chatbot for cooking a recipe.
-•Machine Learning and Deep Learning
-Skills - EDA, supervised learning, statistical modelling, handling imbalanced data, Pytorch
-–Prediction of Sepsis disease prior 6 hours using ML model
-–Prediction of churning of a customer churn using Telecom Data
-–Prediction of the emotion, celebrity similarity, age and gender.Publications
-•Gravitational Acceleration Sep, 2022
-https://aapt.scitation.org/doi/10.1119/10.0013857
-–Published paper on ‘Analyzing a Free-Falling Magnet to Measure Gravitational Acceleration Using a Smartphone’s
-Magnetometer’ with Dr. Praveen Pathak (HBCSE)
-•Doppler Effect Sep - 2020
-https://iopscience.iop.org/article/10.1088/1361-6552/abadd7/meta
-–Published paper on ‘Determination of the friction coefficient of an inclined plane using the Doppler effect and
-smartphones’ with Dr. Praveen Pathak (HBCSE) in Physics Education journal
-Technical Skills
-•Programming Languages :Python, SQL
-•Developer Tools :Visual Studio Code, Git
-•Data Analytics :Tableau, D3
-•Big Data :Cloud databases - Spark, Snowflakes
-•APIs:Numpy, Pandas, NLTK, Scipy, Matplotlib, scikit-learn
-Soft Skills
-•Management :communication, time management and listening skills
-•Problem Solving :solution oriented, optimistic and self-driven
+Qualification
+College/School
+Year
+CGP A/ Per c
+PGP AI&DS
+Jio Institute
+2023
+9.63
+B.Tech (Power Engineering)
+National Power Training Institute
+2019
+83.80%
+Senior School Certification/ XII
+Model Higher Secondary School
+2015
+79.20%
+Secondary School Certification/ X
+Christu Jyoti Convent Senior
+Secondary School
+2013
+9
+Projects
+●
+Capstone Project: Curriculum Personalization according to a students’  need 
+●
+Machine Learning 
+○
+Sepsis Prediction 
+○
+Customer Churn Prediction 
+○
+Customer Rating Prediction (Naive Bayes Classifier) 
+●
+Natural Language Processing 
+○
+Twitter data analysis for Golden Globe Awards winners (Regex, POS Tagging) 
+○
+Interactive Cookbook (Regex, Web scraping, POS Tagging) 
+●
+Data Visualization: Tableau story on Data Scientist salaries 
+●
+Deep Learning: Pokemon Generation using DCGAN
+Skills
+●
+Organized workshops for project “Prajwal” at ENACTUS NPTI from Dec 2015 – to July 2016. 
+●
+Member of the technical committee of the Annual Cultural Fest in 2017. 
+●
+Worked as an Event Coordinator in the Annual Sports fest of NPTI held in February 2018. 
+●
+Proficient with SQL  and Python. 
+●
+Proficient with MS Excel and Google Earth.
 Hobbies
-•Singing and Dancing :I participated in various events at college level.
+●
+Cycling
+●
+Cooking
+●
+Running

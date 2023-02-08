@@ -1,6 +1,6 @@
 from Resume_scrapper import extract_skills,extract_emails,extract_phone_number,extract_education
 from pdf_to_text_scrapper_function import get_resume_text as grt
-from UI import browse_file as path
+# from UI import browse_file as path
 # path = input('Enter the path of the resume: ')
 resume_text= grt(path) 
 
