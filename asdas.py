@@ -37,7 +37,7 @@ def rank_smi(path):
     for person in paths:
         phone_number, score = smi(person)
         score_dict[phone_number] = score
-    score_dict = dict(sorted(score_dict.items(), key=lambda x: x[1]))
+    # score_dict = dict(sorted(score_dict.items(), key=lambda x: x[1]))
     return score_dict
 
 
