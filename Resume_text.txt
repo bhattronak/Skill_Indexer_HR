@@ -1,2 +1,82 @@
-Punit Drolia +91 9474435582 punitdrolia1995@gmail.c0m    Work Experience:  Manager  Reliance Industries Limited               Aug’19 – July’22 • Monitoring and Troubleshooting of Delayed Coking process with Invensys Foxboro DCS • Part of Plant pre-commissioning and commissioning team during revamp activity of World's Largest Delayed Coker Unit whereby the throughput of the unit was increased from 175 KBPSD to 220 KBPSD • Managing manpower and Training need identification of departmental employees & trained them to perform established or new policies, procedures and work instructions.  Trainee                                                                             Oil and Natural Gas Corporation Limited                  May’18 - June’18    • Studied and completed training on “Natural Gas Exploration, Drilling, Production and Processing” • Project on clean fuel generation with high efficiency using “Coal Gasification” technology   Education:  Examination School/College Year of Passing Percentage/ CGPA  PGP (AI & DS) Jio Institute 2023 9.0/10(Ongoing) B. Tech. (Chemical Engineering) NIT Durgapur 2019 8.44/10 Class XII (CBSE) Central Model School 2014 86.2% Class X (WBBSE) Vivekananda Siksha Niketan High School 2012 90.14%  Project:  • Forecasting/Optimization of Distributed Energy Resources: Reduction of total carbon footprint of coal power plants which includes load forecasting and supply forecasting (from solar and wind energy) using different ML & DL models optimizing the economic cost and emission tradeoff • Early Prediction of Sepsis from clinical data using Machine Learning models • Twitter data sentiment analysis using Regex, BeautifulSoup, NLTK and Script Frame Theory • Biodegradation of p-nitrophenol using algae using bio-remediation technique at varying operating conditions(B.Tech) 
- Skills:  Technical Skills: 1. Python 2. SQL 3. Tableau 4. Snowflake Soft Skills: 1. Leadership 2. Team Player 3. Time Management 4. Adaptability  Extra-Curricular Activities/Hobbies:  Position of Responsibility 1. President, Maths N Tech Club, NIT Durgapur 2. Convener & Executive Head, Aavishkar – The Tech Fest, NIT Durgapur 3. Student Representative of Training & Placement Cell, NIT Durgapur Social Service 1. Volunteered to teach science and mathematics to the local underprivileged students nearby NIT Durgapur under BMEP 2. Contributed towards multiple social initiatives; helped a local organization in organizing blood donation camp Interests Travelling, cycling, playing chess and table tennis  
+Lakshya Soni
++91 706551 1554 
+lakshyasoni97@gmail.com
+Work Experience
+Executive Engineer
+Torrent Gas  Jaipur  Private Limited
+July 19 - July 22
+●
+Gathered data from dif ferent sources, prepared a Steel pipeline network around Jaipur city , and
+executed field surveys, reducing cost by 12 lacs and bringing down execution time by 14 days.
+●
+Prepared workflow on worksheets to set tar gets for dif ferent contractors after the analysis of
+company requirements and site conditions.
+●
+Prepared Schedule of Rates after assessing the material required for various stretches of the Steel
+pipeline network.
+●
+Prepared an 8-year expansion plan for the Steel pipeline network around the geographical area
+according to the PNGRB guidelines.
+●
+Liaised with various statutory authorities for permission to lay Steel pipelines around Jaipur city .
+Education
+Qualification
+College/School
+Year
+CGP A/ Per c
+PGP AI&DS
+Jio Institute
+2023
+9.63
+B.Tech (Power Engineering)
+National Power Training Institute
+2019
+83.80%
+Senior School Certification/ XII
+Model Higher Secondary School
+2015
+79.20%
+Secondary School Certification/ X
+Christu Jyoti Convent Senior
+Secondary School
+2013
+9
+Projects
+●
+Capstone Project: Curriculum Personalization according to a students’  need 
+●
+Machine Learning 
+○
+Sepsis Prediction 
+○
+Customer Churn Prediction 
+○
+Customer Rating Prediction (Naive Bayes Classifier) 
+●
+Natural Language Processing 
+○
+Twitter data analysis for Golden Globe Awards winners (Regex, POS Tagging) 
+○
+Interactive Cookbook (Regex, Web scraping, POS Tagging) 
+●
+Data Visualization: Tableau story on Data Scientist salaries 
+●
+Deep Learning: Pokemon Generation using DCGAN
+Skills
+●
+Organized workshops for project “Prajwal” at ENACTUS NPTI from Dec 2015 – to July 2016. 
+●
+Member of the technical committee of the Annual Cultural Fest in 2017. 
+●
+Worked as an Event Coordinator in the Annual Sports fest of NPTI held in February 2018. 
+●
+Proficient with SQL  and Python. 
+●
+Proficient with MS Excel and Google Earth.
+Hobbies
+●
+Cycling
+●
+Cooking
+●
+Running
