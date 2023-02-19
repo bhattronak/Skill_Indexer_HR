@@ -1,7 +1,10 @@
 # Skill_Indexer_HR
+
 ## "Resume Matchmaker: A Skills Scraping and Job Matching Tool"
 
 This project aims to scrape the skills listed on resumes and match them to job roles to identify how many skills a candidate has that are suitable for a particular job. The project would likely involve the use of web scraping libraries such as BeautifulSoup or Scrapy, as well as natural language processing (NLP) techniques to extract the skills from resumes and match them to job roles.
+
+Run the 'UI.py' file to get the scores of the candidates
 
 ### The project could include the following features:
 
@@ -19,7 +22,3 @@ This project aims to scrape the skills listed on resumes and match them to job r
 3. Human resource professionals who want to improve their recruitment process
 
 Overall, "Resume Matchmaker: A Skills Scraping and Job Matching Tool" is a project that can help to identify the best match of skills between candidate and job role, providing a streamlined and efficient recruitment process.
-
-
-
-

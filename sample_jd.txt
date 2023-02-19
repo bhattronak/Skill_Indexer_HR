@@ -1,0 +1,45 @@
+JD 
+General Purpose
+As Data Scientist you support the development of a defined area of data science topics across the full analytics cycle: from framing business need, through data exploration and modelling to operationalization. You execute advanced modelling techniques to create segmentations and ultimately generate consumer insights. Thus, your team is the key enabler for personalization across all touchpoints and funnels.
+Key Responsibilities 
+Scope: Execution of advanced modelling in specific data science areas
+Data Science
+Contribute to the development and apply defined set of advanced analysis methodologies to optimize customer acquisition, engagement, conversion, experience and loyalty. This includes framing of business needs, data exploration as well as descriptive, predictive and prescriptive modeling.
+Contribute to the generation of insights to increase the understanding of adidas consumers, exploring their affinities and intents, in order to make the best recommendations to individual consumers through the right digital channel at the right time.
+Continuously improve our way of working by refining our methodologies for the assigned scope, challenging the status quo and raising the standards for faster delivery.
+Support improvement and automation of the data science platform and our machine learning pipeline to facilitate our data science activities and serve near real time use cases.
+Data Science Network & Storytelling
+Prepare coaching sessions for colleagues in state-of-the-art analytic techniques, data science, data engineering, data governance, and software development.
+Prepare analysis results and insights to be presented to colleagues at all levels, in a way that allows them to understand the value of your work, apply your output, and realize business potential.
+Segmentation
+Support the development of customer segmentations, acquisition and retention strategies, predictive modelling, customer lifetime value metrics and marketing effectiveness measures.
+„If required“ Responsibilities
+Product Ownership
+Specify product vision, roadmap as well as user stories for respective data product.
+Prioritize the items in your product backlog. Specify the definition-of-done in cooperation with the product team.
+Iteratively build actionable insights and results valuable to the business and stakeholders, using appropriate techniques and adhering to our data science methodology and standards for code, analysis and results.
+Lead one or more stakeholder relationships.
+Key Relationships:
+DBC Experience Design Team
+Consumer Engagement Teams
+BUs
+Markets
+Big Data Group
+Requirements
+Education & Professional Experience
+University degree in the a numeric / statistical discipline (M.Sc. or PhD)
+5+ years of experience in analytics in a Digital and/or eCommerce environment, strong knowledge of the digital industry (products, technologies, solution providers, commercial models, trends)
+3+ years of professional experience in an international & cross-functional environment
+Experience in managing a team is a plus
+Soft-Skills
+Good communication skills, comfortable presenting complex topics to stakeholders at various organizational levels both in person and remotely
+Good interpersonal skills, good leadership skills
+Proven team player than that can collaborate across functions and organizations
+Hard-Skills
+Strong coding skills using common data science toolkits
+Strong knowledge in applied statistics, distributions, statistical testing, data mining and machine learning algorithms
+Experience with NoSQL data bases
+Experience on data aggregations, data models and operationalization of data mining algorithms
+Experience in developing Customer profiles, CLTV, attribution model, lookalike modeling, clustering, and classification and segmentation models on large and sparse data sets.
+Fluent English both verbally and written
+'''
