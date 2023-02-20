@@ -2,18 +2,28 @@
 
 ## "Resume Matchmaker: A Skills Scraping and Job Matching Tool"
 
-This project aims to scrape the skills listed on resumes and match them to job roles to identify how many skills a candidate has that are suitable for a particular job. The project would likely involve the use of web scraping libraries such as BeautifulSoup or Scrapy, as well as natural language processing (NLP) techniques to extract the skills from resumes and match them to job roles.
+This project aims to scrape the skills listed on resumes and match them to job roles to identify how many skills a candidate has that are suitable for a particular job. The project involves the use of natural language processing (NLP) techniques to extract the skills from resumes and match them to job roles.
 
-Run the 'UI.py' file to get the scores of the candidates
+The project uses the following formula to calculate score: 
 
-### The project could include the following features:
+```
+score = 2*len(skills_matched_from_database) + num_common_bigrams + num_common_trigrams
+```
+
+### To use the tool
+
+1. Run the UI.py file.
+2. Enter the JD for the role
+3. Browse to the folder containing the resume
+4. Click on Calculate Score
+
+### The project includes the following features:
 
 1. Scraping skills from resumes
 2. Storing the scraped data in a database
 3. Matching the skills to job roles
 4. Providing a user-friendly interface for searching and matching skills to job roles
-5. Identifying how many skills a candidate has that are suitable for a particular job
-6. Option to export the matching skills in a desired format
+5. Calculate and rank the candidates based on the profile matching with the JD.
 
 ### This Project can be useful for:
 

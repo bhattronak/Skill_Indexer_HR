@@ -48,8 +48,11 @@ def smi(path, JD):
     skills_jd = set(skills_jd)    
     sk_temp = skills_jd - skills_resume
     score = 2*len(sk_temp) + num_common_bigrams + num_common_trigrams
-    phone_number = extract_phone_number(resume_text)
-    return phone_number, score
+    # phone_number = extract_phone_number(resume_text)
+    base_name = os.path.basename(path)
+    file_name, extension = os.path.splitext(base_name)
+    # return phone_number, score
+    return file_name, score
 
 
 def list_resume(path):
@@ -69,8 +72,8 @@ def rank_smi(path, JD):
     score_dict = {}
     paths = list_resume(path)
     for person in paths:
-        phone_number, score = smi(person, JD)
-        score_dict[phone_number] = score
+        file_name, score = smi(person, JD)
+        score_dict[file_name] = score
     score_dict = {k: v for k, v in sorted(score_dict.items(), key=lambda item: item[1], reverse=True)}
     return score_dict
 
