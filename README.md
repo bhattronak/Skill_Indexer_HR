@@ -4,11 +4,15 @@
 
 This project aims to scrape the skills listed on resumes and match them to job roles to identify how many skills a candidate has that are suitable for a particular job. The project involves the use of natural language processing (NLP) techniques to extract the skills from resumes and match them to job roles.
 
-The project uses the following formula to calculate score: 
+The project uses the following formula to calculate the score:
 
 ```
 score = 2*len(skills_matched_from_database) + num_common_bigrams + num_common_trigrams
 ```
+
+Note that the "skills_matched_from_database" has been given higher weightage as these are the most desired skills entered specifically by the user.
+
+For eg. Consider an instance of a resume file named 'abc.pdf'. This function will look for all the skills that are mentioned in the database as well as in the resume. It also looks for the total number of matching bigrams and trigrams between the specified Job Description and 'abc.pdf'. The output of this is a key-value pair with the name of the file 'abc' as the key and score (calculated according to the formula) as the value.
 
 ### To use the tool
 
