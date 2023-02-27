@@ -1,250 +1,77 @@
-
-I am an applied computer vision data scientist who have had experience in a leading a bunch of
-other data scientists. I have used my leadership and applied deep learning skills to successfully
-execute various computer vision projects. Highly skilled in applied deep learning - Computer
-Vision. Good understanding of various computer vision techniques like classification, bounding
-box classification and regression(object detection),pixel wise prediction(segmentation),
-sequence classification with LSTMs (video classification). Good Interpreter of business
-requirements into technical terms and vice versa. 
-Excellent in use case identification from
-business requirements.
+ Name: Lakshya Soni  
+Course: PGP in Artificial Intelligence & Data Science - Batch 2023  
+Contact: +91- 7065511554  I Email:  lakshya.s23pgai@jioinstitute.edu.in  
+LinkedIn : https://www.linkedin.com/in/soni -lakshya/  
+• Decision making  
+• Interpersonal skills  
+• Proactive communication  
+• Critical thinking  
+• Leadership abilities  
+ • Deep l earning  
+• Data v isualization  
+• Machine l earning  
+• Big d ata management  
+• Consumer understanding  • Python   
+• SQL  
+• Tableau  
+• Microsoft Office  
+• Internet applications  
  
-Achievements include execution of various computer vision projects like building character
-identification,fashion style guide recommender, Fashion attribute predictor, activity detection,
-image search engine.
-My work got accepted in AI & Deep Learning Conference | GTC 2018 | NVIDIA.
-I am looking for a role where i can leverage my skills and experience for the betterment of the
-Organisation and further improvement to my own learning.
-I am a regular AI/ML blogger. I 
-am a firm believer
- in Andre NG's view of democratising AI. I pass
-on my knowledge to the community through various blogs.
-To understand the business use cases from clients and convert them into a well defined
-problem statement and explain it to the development team.
-To identify data sets required to develop predictive models for solving internal and external
-business problems
-To fill data gap by gathering data , designing annotation 
-portal
-  and conducting  data
-annotation by human annotators.
-To explore data sets and identify data transformation and data quality needs for targeted
-applications
-To d
-evelop algorithms and predictive models to derive insights and business value from
-data
-To provide leadership and mentorship to other members of the team.
-Identify and implement use cases which might help the organisation business development
-To interpret results and produce actionable business insights that lead to measurable
-business and consumer experience performance improvements
-To Operationalize, publish, and monitor successful models to shape business and data
-science strategy
-To partner with other departments to solve problems and identify trends and opportunities
-To define and develop the program for metrics creation, data collection, modeling, and
-reporting the operational performance
-To work cross-functionally to define problem statements, collect data, build analytical
-models and make recommendations.
-To routinely communicate metrics, progresses and other key indicators to leadership.
-To lead and support various ad hoc projects, as needed, in support of Organizations’s
-Business strategy.
-2017
- - 
-2018
-Lead Data Scientist - Computer Vision
-Cogknit Semantics
-core python
-numpy
-pandas
-tensorflow
-caffe
-openCV
-Machine Learning
-Deep Learning
-Spark RDD,DataFrame
- : Used for
-Data transformation
-MapReduce
- : Used as a data
-processing engine 
-R
- : Experimental works mainly on
-structured data
-Summary
+Torrent Gas Jaipur Private Limited  – Executive Engineer                                                         July 19 - July 22  
+• Gathered data from different sources, prepared a Steel pipeline network around Jaipur city, and executed field 
+surveys, reducing cost by 12 lakh  and bringing do wn execution time by 14 days.  
+• Prepared workflow on worksheets to set targets for different contractors after the analysis of company 
+requirements and site conditions.  
+• Prepared Schedule of Rates after assessing the material required for various stretches of  the Steel pipeline 
+network.  
+• Prepared an 8 -year expansion plan for the Steel pipeline network around the geographical area according to the 
+PNGRB guidelines.  
+• Liaised with various statutory authorities for permission to lay Steel pipelines around Jaipur cit y. 
+• English, Hindi  
+ • Capstone Project: Curriculum Personalization according to a students’ need  
+• Machine Learning : Sepsis Prediction , Customer Churn Prediction , Customer Rating Prediction (Naive Bayes 
+Classifier)  
+• Natural Language Processing : Twitter data analysis for Golden Globe Awards winners (Regex, POS Tagging) , 
+Interactive Cookbook (Regex, Web scraping, POS Tagging)  
+• Data Visualization: Tableau story on Data Scientist salaries  
+• Deep Learning: Pokemon Generation using DCGAN  
+• Organized workshops for project “Prajwal” at ENACTUS NPTI from Dec 2015 – to July 2016.  
+• Member of the technical committee of the annual cultural fest in 2017.  
+• Worked as an event coordinator in the annual sports fest of NPTI held in February 2018.  
   
-Responsibilities
-  
-Work experience
-  
-Skills
-  
-Others
-  
- https://www.visualcv.com/abhaymise2016
- - 
-2017
-2015
- - 
-2016
-2013
- - 
-2015
-Leads a team of 15 members including data scientists,product engineers and UI engineers.
-Data Scientist
-Cogknit Semantics
-Fi
-rst member of the computer vision team in the organisation
-Data Engineer
-Cogknit Semantics
-Senior Research Analyst
-Edureka
-2009
- - 
-2013
-June 15, 2016
- - 
-June 15, 2016
-2017
- - 
-2017
-2016
- - 
-2016
-Bachelor of Engineering,Computer Science
-visvesvaraya technological university
-Machine Learning by Stanford University on
-Coursera with 96.1%
-Stanford
-A machine learning course by one of the pioneer of Artificial Intelligence
-Deep Learning Specialisation
-Deeplearning.ai
-It carries 5 deep learning courses with focus on Neural Net , CNN , LSTM and Bi-LSTMs
-Attended cs231n CNN for visual Recognition course
-Stanford
-Attended and completed all the assignments of the course
-A Poster on 
-"Domain Adaption of Image Caption Model for Video Descriptions"
- was accepted
-at 
-AI & Deep Learning Conference | GTC 2018 | NVIDIA
-Multiple blogs has been identified as best reads 
-across
-  various  ML/AI forums
-2018
- - 
-present
-2018
- - 
-present
-Men Style Guide creation 
-Cogknit Semantics
-Recommend best matching attire for men given a particular attire. The recommended attire is
-created on the fly with an inspiration from an automated style guide. The automated style
-guide  brings the trend factor by following feeds of the fashion celebrities and accordingly
-create the combination for recommendation.
-Built with pandas, numpy, tensorflow, keras
-Metadata Extraction from a media content
-Cogknit Semantics
-Education
-  
-Achievement
-  
-Projects 
  
- https://www.visualcv.com/abhaymise2017
- - 
-2018
-2017
- - 
-2017
-2016
- - 
-2017
-2016
- - 
-2017
-2016
- - 
-2017
-2016
- - 
-2016
-2017
- - 
-2018
-Extract 
-attributes
-  like scene count,scene boundaries of each scene, scene identification ,
-Character identification , Character's facial features identification , activity detection ,
-objectionable activity flagging , speaker identification and close caption generation across all
-scenes. The extracted attributes will be exposed micro service for further business
-monetisation.
-Built with tensorflow
-, Kaldi, Keras,OpenCV
-  
-Face and Voice based authenticated wallet
-Cogknit Semantics
-An authentication system which can be provide multi modal authentication with signals from
-face and voice . The authentication can be attached against any payment system . In our case
-we attached it against a payment system which was running over blockchain.
-Automated transcript generation from 
-advertisement video for
-e-retail
-Cogknit Semantics
-The project aims in solving a business case the e-retailers website should accessible to a
-visually impaired person. Aim is to create a transcripts having visual and audio
-information about the given video. This transcript would contain complete information
-including all actions , emotions , clothing attributes and spoken sentences. This transcript
-would be used by the video owners in explaining their products to visually impaired person.
-Built with tensorflow
-, Kaldi, Keras,OpenCV
-  
-Scene Retrieval using Tensorflow and Opencv
-Cogknit Semantics
-This system allows you to retrieve and play a video from the scene that you desire.
-B
-uilt using openCV as means of IO,Inception-v3 CNN encoder from tensorflow to
-extract features of the video.
-Image search using tensorflow
-Cogknit Semantics
-This system has been trained to recognise categories of the query image and then to retrieve
-the most closest match under the identified category as a search result.
-B
-uilt with 
-tensorflow  CNN classifier, encoder and vectorised search system.
-Automated image curation system using tensorflow
-Cogknit Semantics
-This system helps in accelerating the cleaning process of the training data of image classifiers.
-It brings out all the junks from the training data and provides a system to delete/move from the
-categories.
-Built with tensorflow CNN feature extractors and vectorised information retrieval
-technique.
-Auto correction of e-Commerce catalogue using caffe
-Cogknit Semantics
-This system tries to find the mis-placed item under a category in an e-commerce
-catalogue.Once it finds the misplaced item it reports it to the admin and then suggest the
-correct category under which the product should actually be placed.
-Built with caffe CNN classifier. 
-Automated Attendance system
-Cogknit Semantics
-This marks an employee presence in office by detecting his/her face at the entry of the office.
- https://www.visualcv.com/abhaymise2017
- - 
-2017
-2015
- - 
-2016
-Built with tensorflow CNN classifier and openCV
-.
-Auto tagging of visual contents for indexing using tensorflow
-Cogknit Semantics
-This system automatically generates a textual description of an image.
-This also marks the image with multiple tags as per the objects detected in the image.
-Captioning system built with CNN-LSTM encoder-decoder system. Meta tag generation
-is built using Faster-RCNN network.
-Recommendation System for smart learning using numpy
-Cogknit Semantics
-Recommends learning contents to an user based on his and his peer activities.
-The learning
-process of like minded learners is collaborated to suggest 
- new and useful contents to an user.
-Collaborative filtering of user and item attributes has been used .
- https://www.visualcv.com/abhaymise
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • PGP in Artificial Intelligence & Data Science , Jio Institute, Pursuing  
+• B.Tech (Power Engineering),  National Power Training Institute , 2019  
+• 12th Grade , Model Higher Secondary School , 2015  
+• 10th Grade , Christu Jyoti  Convent Senior  Secondary School , 2013  EDUCATION  
+SOFT SKILLS  
+WORK EXPERIENCE  CORE COMPETENCIES  TECHNICAL PROFI CIENCY  
+LINGUISTIC ABILITIES  PROJECTS  
+EXTRA -CURRICULAR ACTIVITIES  
